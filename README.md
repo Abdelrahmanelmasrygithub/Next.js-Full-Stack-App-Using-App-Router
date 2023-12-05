@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+![chrome_dH0LYuqMtr](https://github.com/Abdelrahmanelmasrygithub/Next.js-Full-Stack-App-Using-App-Router/assets/130839173/ab2c3695-dcef-4743-9997-9e3115c2a47e)
 
 First, run the development server:
 
