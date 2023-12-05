@@ -1,0 +1,9 @@
+.logout{
+    padding: 8px;
+    cursor: pointer;
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: var(--size-border-radius);
+    text-transform: uppercase;
+    font-weight: 5px;
+}
